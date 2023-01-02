@@ -1,0 +1,5 @@
+[default]
+entity = zfyy
+project = yolov7
+base_url = https://api.wandb.ai
+
